@@ -4,7 +4,7 @@
 what they are missing from a recipe. Also, it allows users to share their recipes for public access.
 
 ## Live Demo
-- Live Link: [Track App](https://young-beyond-34831.herokuapp.com/)
+- Live Link: [Track App]()
 
 ### Build with:
 
@@ -66,4 +66,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
