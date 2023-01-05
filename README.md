@@ -2,9 +2,7 @@
 
 > Track Application allows users to create recipes, and generate a shopping list based on wht they have and 
 what they are missing from a recipe. Also, it allows users to share their recipes for public access.
-
-## Live Demo
-- Live Link: [Track App]()
+![Desktop-Images](./public/app.JPG)
 
 ### Build with:
 
