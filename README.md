@@ -27,8 +27,8 @@ what they are missing from a recipe. Also, it allows users to share their recipe
 
 - make sure you have Ruby and Postgresql installed on your system.
 - install rails by running `gem install rails`
-- git clone git@github.com:OLIPLICHE/recipe_app.git
-- cd ./recipe_app
+- git clone git@github.com:OLIPLICHE/track_app.git
+- cd ./track_app
 - run `yarn install` or `bundle install` to install all dependencies
 - run `rails db:create` and `rails db:migrate` to create database.
 - run `rails s` and go to http:localhost:3000 to view the app.
